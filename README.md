@@ -1,4 +1,5 @@
-main.py is the API for parsing snusbase search results, cli.py is a command line tool for making snusbase searching easier.
+main.py - The API for parsing snusbase search results.
+cli.py - Command line tool for making searches easier, formats the results as well.
 
 **Requirements:**
 - Python 3+
