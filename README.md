@@ -15,6 +15,29 @@ print(json.dumps(
     }),
     indent = 2
 ))
+
+# Output:
+# {
+#     "AXESS_FR_2792_BUSINESS_112022": [
+#       {
+#         "username": "TEST",
+#         "hash": "$2y$10$t9GFBvvvG5Q5dvTNq9.mgO2pLAiwXQCgQ9ZRU2t60/zci2vS.ROfW",
+#         "name": "TEST TEST",
+#         "id": "2606",
+#         "created": "0"
+#       }
+#     ],
+#     "SELFDEFENSEMALL_COM_935_DEFENSE_092023": [
+#       {
+#         "username": "test",
+#         "email": "dgordon@aweomemotive.com",
+#         "hash": "$P$BjJTbhGYVjn0nXX.PcXODdA7Wf4/CR1",
+#         "name": "test",
+#         "id": "697"
+#       }
+#     ],
+#     ...
+# }
 ```
 
 **Hash cracking example:**
