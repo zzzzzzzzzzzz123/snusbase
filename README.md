@@ -3,8 +3,8 @@
 - Python imports: requests, BeautifulSoup 4
 
 **Installation:**
-1: pip install beautifulsoup4
-2: pip install requests
+- pip install beautifulsoup4
+- pip install requests
 
 **Search example:**
 ```python
